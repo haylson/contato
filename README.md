@@ -14,7 +14,7 @@ H2 Database
 
 Soluções:
 
-Solução para CORS usando classe de configuração global implementando o WebMvcConfigurer.
+- Solução para CORS usando classe de configuração global implementando o WebMvcConfigurer.
 
 Melhorias:
 
